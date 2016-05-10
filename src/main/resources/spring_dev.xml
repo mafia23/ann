@@ -10,7 +10,7 @@
         <property name="persistenceUnitName" value="basePu"/>
         <property name="packagesToScan">
             <array>
-                <value>com.huotu.hotcms.service.entity</value>
+                <value>annotation</value>
                 <value>com.huotu.hotcms.service.config</value>
             </array>
         </property>
